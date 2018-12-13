@@ -1,6 +1,6 @@
 ⚠⚠⚠
 
-> This package is deprecated. There are some known issues with it and I just don't have the time to fix them. I also am not using nodejs anymore, so it doesn't make sense.
+> Fork from https://github.com/ryanbillingsley/express-ipfilter. Only update lodash version.
 
 ⚠⚠⚠
 
